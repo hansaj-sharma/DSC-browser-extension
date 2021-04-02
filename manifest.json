@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "DSC social",
+    "description": "Quick Launch DSC guild socials",
+    "version": "1.0.0",
+    "icons": {
+        "128": "dsc_128.png"
+    },
+    "browser_action": {
+        "default_icon": "dsc_19.png",
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "activeTab"
+    ]
+}
